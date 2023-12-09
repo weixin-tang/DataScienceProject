@@ -1,0 +1,30 @@
+00 iphone
+01 sunglasses
+02 Google Home
+03 Kindle
+04 Surface
+05 RTX3090
+06 Apple Tag
+07 macbook
+08 ipad
+09 Pencil
+10 Hard Drive
+11 Headphones
+12 Pillows
+13 Fire Table
+14 Heater
+15 Furniture
+16 Hat
+17 TV
+18 SSD
+19 Balls
+20 Candy
+21 Bag
+22 Card
+23 XBox
+24 Keyboard
+25 Mouse
+26 Pant
+27 Jacket
+28 Belt
+29 Cup
